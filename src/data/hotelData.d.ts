@@ -1,0 +1,16 @@
+export declare const FALLBACK_IMAGE: string;
+export declare const heroImages: any[];
+export declare const exteriorImages: any[];
+export declare const groundFloorImages: any[];
+export declare const floorImages: any;
+export declare const roomTypeImages: any[];
+export declare const restaurantImages: any[];
+export declare const foodImages: any[];
+export declare const amenitiesImages: any[];
+export declare const banquetImages: any[];
+export declare const galleryImages: any[];
+export declare const contactImages: any[];
+export declare const rooms: any[];
+export declare const hotelInfo: any;
+export declare const stats: any[];
+export declare const testimonials: any[];
